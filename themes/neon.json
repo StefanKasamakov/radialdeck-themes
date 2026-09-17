@@ -5,7 +5,7 @@
   "dark": {
     "sliceTop": "#F0101014",
     "sliceBottom": "#F0060608",
-    "sliceStroke": "#90FF2BD6",
+    "sliceStroke": "#A0FF2BD6",
     "hoverTop": "#F0FF2BD6",
     "hoverBottom": "#F08A2BE2",
     "hoverStroke": "#FFFFFFFF",
@@ -15,7 +15,14 @@
     "labelEmpty": "#50FF2BD6",
     "shadow": "#FFFF2BD6",
     "strokeWidth": 1.5,
-    "shadowOpacity": 0.7
+    "shadowOpacity": 0.7,
+    "pattern": "none",
+    "patternColor": "#30FFFFFF",
+    "glow": "#FFFF2BD6",
+    "glowRadius": 28,
+    "font": "Segoe UI Black",
+    "labelSize": 11,
+    "labelUppercase": true
   },
   "light": {
     "sliceTop": "#F0FFFFFF",
@@ -30,6 +37,13 @@
     "labelEmpty": "#502A0A3A",
     "shadow": "#FFC026D3",
     "strokeWidth": 1.5,
-    "shadowOpacity": 0.35
+    "shadowOpacity": 0.35,
+    "pattern": "none",
+    "patternColor": "#30FFFFFF",
+    "glow": "#C0FF2BD6",
+    "glowRadius": 22,
+    "font": "Segoe UI Black",
+    "labelSize": 11,
+    "labelUppercase": true
   }
 }

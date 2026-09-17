@@ -15,7 +15,14 @@
     "labelEmpty": "#50FFB08A",
     "shadow": "#FF2A0A20",
     "strokeWidth": 1.0,
-    "shadowOpacity": 0.55
+    "shadowOpacity": 0.55,
+    "pattern": "none",
+    "patternColor": "#30FFFFFF",
+    "glow": "#70FB923C",
+    "glowRadius": 16,
+    "font": "",
+    "labelSize": 0,
+    "labelUppercase": false
   },
   "light": {
     "sliceTop": "#F0FFF4EC",
@@ -30,6 +37,13 @@
     "labelEmpty": "#503B1020",
     "shadow": "#FFB05030",
     "strokeWidth": 1.0,
-    "shadowOpacity": 0.3
+    "shadowOpacity": 0.3,
+    "pattern": "none",
+    "patternColor": "#30FFFFFF",
+    "glow": "",
+    "glowRadius": 18,
+    "font": "",
+    "labelSize": 0,
+    "labelUppercase": false
   }
 }
