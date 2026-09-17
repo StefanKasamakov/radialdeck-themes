@@ -1,0 +1,35 @@
+{
+  "id": "neon",
+  "name": "Neon",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#F0101014",
+    "sliceBottom": "#F0060608",
+    "sliceStroke": "#90FF2BD6",
+    "hoverTop": "#F0FF2BD6",
+    "hoverBottom": "#F08A2BE2",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#F8050507",
+    "label": "#FFFFFFFF",
+    "labelDim": "#D8F5D0FF",
+    "labelEmpty": "#50FF2BD6",
+    "shadow": "#FFFF2BD6",
+    "strokeWidth": 1.5,
+    "shadowOpacity": 0.7
+  },
+  "light": {
+    "sliceTop": "#F0FFFFFF",
+    "sliceBottom": "#F0F3E8FF",
+    "sliceStroke": "#A0C026D3",
+    "hoverTop": "#F0FF2BD6",
+    "hoverBottom": "#F08A2BE2",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#F8FFFFFF",
+    "label": "#FF2A0A3A",
+    "labelDim": "#C02A0A3A",
+    "labelEmpty": "#502A0A3A",
+    "shadow": "#FFC026D3",
+    "strokeWidth": 1.5,
+    "shadowOpacity": 0.35
+  }
+}

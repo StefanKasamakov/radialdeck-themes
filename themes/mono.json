@@ -1,0 +1,35 @@
+{
+  "id": "mono",
+  "name": "Mono",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#FF1C1C1C",
+    "sliceBottom": "#FF0E0E0E",
+    "sliceStroke": "#FFFFFFFF",
+    "hoverTop": "#FFFFFFFF",
+    "hoverBottom": "#FFE6E6E6",
+    "hoverStroke": "#FF000000",
+    "hub": "#FF000000",
+    "label": "#FFFFFFFF",
+    "labelDim": "#FFE0E0E0",
+    "labelEmpty": "#60FFFFFF",
+    "shadow": "#FF000000",
+    "strokeWidth": 2.0,
+    "shadowOpacity": 0.0
+  },
+  "light": {
+    "sliceTop": "#FFFFFFFF",
+    "sliceBottom": "#FFF2F2F2",
+    "sliceStroke": "#FF000000",
+    "hoverTop": "#FF000000",
+    "hoverBottom": "#FF1A1A1A",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#FFFFFFFF",
+    "label": "#FF000000",
+    "labelDim": "#FF202020",
+    "labelEmpty": "#60000000",
+    "shadow": "#FF000000",
+    "strokeWidth": 2.0,
+    "shadowOpacity": 0.0
+  }
+}

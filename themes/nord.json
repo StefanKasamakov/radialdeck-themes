@@ -1,0 +1,35 @@
+{
+  "id": "nord",
+  "name": "Nord",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#F03B4252",
+    "sliceBottom": "#F02E3440",
+    "sliceStroke": "#604C566A",
+    "hoverTop": "#F088C0D0",
+    "hoverBottom": "#F05E81AC",
+    "hoverStroke": "#FFECEFF4",
+    "hub": "#F8242933",
+    "label": "#FFECEFF4",
+    "labelDim": "#D0D8DEE9",
+    "labelEmpty": "#504C566A",
+    "shadow": "#FF1A1E26",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  },
+  "light": {
+    "sliceTop": "#F0ECEFF4",
+    "sliceBottom": "#F0E5E9F0",
+    "sliceStroke": "#FFD8DEE9",
+    "hoverTop": "#F088C0D0",
+    "hoverBottom": "#F05E81AC",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#F8FFFFFF",
+    "label": "#FF2E3440",
+    "labelDim": "#D03B4252",
+    "labelEmpty": "#504C566A",
+    "shadow": "#FF4C566A",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.3
+  }
+}

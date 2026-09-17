@@ -1,0 +1,35 @@
+{
+  "id": "catppuccin-mocha",
+  "name": "Catppuccin Mocha",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#F0313244",
+    "sliceBottom": "#F01E1E2E",
+    "sliceStroke": "#5045475A",
+    "hoverTop": "#F0CBA6F7",
+    "hoverBottom": "#F0B4BEFE",
+    "hoverStroke": "#FFF5E0DC",
+    "hub": "#F8181825",
+    "label": "#FFCDD6F4",
+    "labelDim": "#D0BAC2DE",
+    "labelEmpty": "#506C7086",
+    "shadow": "#FF11111B",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  },
+  "light": {
+    "sliceTop": "#F0EFF1F5",
+    "sliceBottom": "#F0E6E9EF",
+    "sliceStroke": "#FFDCE0E8",
+    "hoverTop": "#F08839EF",
+    "hoverBottom": "#F07287FD",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#F8FFFFFF",
+    "label": "#FF4C4F69",
+    "labelDim": "#D05C5F77",
+    "labelEmpty": "#509CA0B0",
+    "shadow": "#FF6C6F85",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.3
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "terminal",
+  "name": "Terminal",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#F80A0F0A",
+    "sliceBottom": "#F8050805",
+    "sliceStroke": "#A033FF66",
+    "hoverTop": "#F033FF66",
+    "hoverBottom": "#F0119933",
+    "hoverStroke": "#FFCCFFCC",
+    "hub": "#FA030503",
+    "label": "#FF33FF66",
+    "labelDim": "#C033FF66",
+    "labelEmpty": "#4033FF66",
+    "shadow": "#FF00FF40",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.5
+  },
+  "light": {
+    "sliceTop": "#F8F2FFF2",
+    "sliceBottom": "#F8E0FFE0",
+    "sliceStroke": "#A0119933",
+    "hoverTop": "#F033FF66",
+    "hoverBottom": "#F0119933",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#FAFFFFFF",
+    "label": "#FF0A3D1A",
+    "labelDim": "#C00A3D1A",
+    "labelEmpty": "#500A3D1A",
+    "shadow": "#FF119933",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.3
+  }
+}

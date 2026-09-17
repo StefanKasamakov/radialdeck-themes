@@ -1,0 +1,35 @@
+{
+  "id": "glass",
+  "name": "Glass",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#C82A2E38",
+    "sliceBottom": "#C814161E",
+    "sliceStroke": "#70FFFFFF",
+    "hoverTop": "#F060A5FA",
+    "hoverBottom": "#F02F6FE0",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#E6101218",
+    "label": "#FFFFFFFF",
+    "labelDim": "#D0FFFFFF",
+    "labelEmpty": "#50FFFFFF",
+    "shadow": "#FF000000",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  },
+  "light": {
+    "sliceTop": "#D8FFFFFF",
+    "sliceBottom": "#C0E4E8F2",
+    "sliceStroke": "#FFFFFFFF",
+    "hoverTop": "#F060A5FA",
+    "hoverBottom": "#F02F6FE0",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#E6F6F7FA",
+    "label": "#FF14161C",
+    "labelDim": "#D014161C",
+    "labelEmpty": "#5014161C",
+    "shadow": "#FF203050",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  }
+}

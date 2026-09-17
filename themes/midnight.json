@@ -1,0 +1,35 @@
+{
+  "id": "midnight",
+  "name": "Midnight",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#E0141B2E",
+    "sliceBottom": "#E00B1020",
+    "sliceStroke": "#5080A0FF",
+    "hoverTop": "#F022D3EE",
+    "hoverBottom": "#F00891B2",
+    "hoverStroke": "#FFCCFBF1",
+    "hub": "#F00A0E1A",
+    "label": "#FFE6F1FF",
+    "labelDim": "#C0E6F1FF",
+    "labelEmpty": "#48E6F1FF",
+    "shadow": "#FF000814",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  },
+  "light": {
+    "sliceTop": "#E6E9EEFF",
+    "sliceBottom": "#E6D6DEF7",
+    "sliceStroke": "#FFFFFFFF",
+    "hoverTop": "#F022D3EE",
+    "hoverBottom": "#F00891B2",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#F0F4F6FF",
+    "label": "#FF0B1330",
+    "labelDim": "#C00B1330",
+    "labelEmpty": "#500B1330",
+    "shadow": "#FF1B2B60",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dracula",
+  "name": "Dracula",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#F044475A",
+    "sliceBottom": "#F0282A36",
+    "sliceStroke": "#606272A4",
+    "hoverTop": "#F0BD93F9",
+    "hoverBottom": "#F0FF79C6",
+    "hoverStroke": "#FFF8F8F2",
+    "hub": "#F8191A21",
+    "label": "#FFF8F8F2",
+    "labelDim": "#D0F8F8F2",
+    "labelEmpty": "#506272A4",
+    "shadow": "#FF000000",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  },
+  "light": {
+    "sliceTop": "#F0F8F8F2",
+    "sliceBottom": "#F0EDEDE6",
+    "sliceStroke": "#FFD9D9D0",
+    "hoverTop": "#F0BD93F9",
+    "hoverBottom": "#F0FF79C6",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#F8FFFFFF",
+    "label": "#FF282A36",
+    "labelDim": "#D044475A",
+    "labelEmpty": "#506272A4",
+    "shadow": "#FF44475A",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.3
+  }
+}

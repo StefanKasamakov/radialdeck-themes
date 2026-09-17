@@ -1,0 +1,35 @@
+{
+  "id": "paper",
+  "name": "Paper",
+  "author": "RadialDeck",
+  "dark": {
+    "sliceTop": "#F03B3530",
+    "sliceBottom": "#F02A2520",
+    "sliceStroke": "#60FFF4E0",
+    "hoverTop": "#F0F59E0B",
+    "hoverBottom": "#F0D97706",
+    "hoverStroke": "#FFFFF7ED",
+    "hub": "#F8221E1A",
+    "label": "#FFFFF7ED",
+    "labelDim": "#D0FFF7ED",
+    "labelEmpty": "#50FFF7ED",
+    "shadow": "#FF000000",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.45
+  },
+  "light": {
+    "sliceTop": "#F8FFFDF7",
+    "sliceBottom": "#F8F5EFE0",
+    "sliceStroke": "#FFE7DCC3",
+    "hoverTop": "#F0F59E0B",
+    "hoverBottom": "#F0D97706",
+    "hoverStroke": "#FFFFFFFF",
+    "hub": "#FAFFFBF2",
+    "label": "#FF3B2F1E",
+    "labelDim": "#D03B2F1E",
+    "labelEmpty": "#503B2F1E",
+    "shadow": "#FF8A6A3A",
+    "strokeWidth": 1.0,
+    "shadowOpacity": 0.3
+  }
+}
