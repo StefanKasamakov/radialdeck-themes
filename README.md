@@ -35,20 +35,31 @@ A bad colour shows as magenta so you spot it at once. A theme whose `id` matches
 
 | Theme | Dark | Light |
 |---|---|---|
-| **Windows 7 Aero** `aero` | ![](previews/aero-dark.png) | ![](previews/aero-light.png) |
 | **Blueprint** `blueprint` | ![](previews/blueprint-dark.png) | ![](previews/blueprint-light.png) |
 | **Catppuccin Mocha** `catppuccin-mocha` | ![](previews/catppuccin-mocha-dark.png) | ![](previews/catppuccin-mocha-light.png) |
 | **Cyberpunk** `cyberpunk` | ![](previews/cyberpunk-dark.png) | ![](previews/cyberpunk-light.png) |
 | **Dracula** `dracula` | ![](previews/dracula-dark.png) | ![](previews/dracula-light.png) |
+| **Frost** `frost` | ![](previews/frost-dark.png) | ![](previews/frost-light.png) |
 | **Glass** `glass` | ![](previews/glass-dark.png) | ![](previews/glass-light.png) |
+| **Gridline** `gridline` | ![](previews/gridline-dark.png) | ![](previews/gridline-light.png) |
+| **Inferno** `inferno` | ![](previews/inferno-dark.png) | ![](previews/inferno-light.png) |
 | **Midnight** `midnight` | ![](previews/midnight-dark.png) | ![](previews/midnight-light.png) |
 | **Minecraft** `minecraft` | ![](previews/minecraft-dark.png) | ![](previews/minecraft-light.png) |
 | **Mono** `mono` | ![](previews/mono-dark.png) | ![](previews/mono-light.png) |
 | **Neon** `neon` | ![](previews/neon-dark.png) | ![](previews/neon-light.png) |
 | **Nord** `nord` | ![](previews/nord-dark.png) | ![](previews/nord-light.png) |
+| **Onyx & Gold** `gold` | ![](previews/gold-dark.png) | ![](previews/gold-light.png) |
+| **Overworld** `overworld` | ![](previews/overworld-dark.png) | ![](previews/overworld-light.png) |
 | **Paper** `paper` | ![](previews/paper-dark.png) | ![](previews/paper-light.png) |
+| **Retro Handheld** `handheld` | ![](previews/handheld-dark.png) | ![](previews/handheld-light.png) |
+| **Sakura** `sakura` | ![](previews/sakura-dark.png) | ![](previews/sakura-light.png) |
+| **Stealth** `stealth` | ![](previews/stealth-dark.png) | ![](previews/stealth-light.png) |
 | **Sunset** `sunset` | ![](previews/sunset-dark.png) | ![](previews/sunset-light.png) |
+| **Synthwave** `synthwave` | ![](previews/synthwave-dark.png) | ![](previews/synthwave-light.png) |
 | **Terminal** `terminal` | ![](previews/terminal-dark.png) | ![](previews/terminal-light.png) |
+| **Test Chamber** `lab` | ![](previews/lab-dark.png) | ![](previews/lab-light.png) |
+| **Vault** `vault` | ![](previews/vault-dark.png) | ![](previews/vault-light.png) |
+| **Windows 7 Aero** `aero` | ![](previews/aero-dark.png) | ![](previews/aero-light.png) |
 
 ## Share a theme
 
