@@ -10,7 +10,12 @@ Community ring styles for [RadialDeck](https://github.com/StefanKasamakov/radial
 
 ## Make a theme
 
-Copy `themes/glass.json`, change `id` and `name`, edit the colours. Every colour is `#RRGGBB` or `#AARRGGBB` (alpha first). Both a `dark` and a `light` block are required; RadialDeck picks one to match Windows.
+**The easy way:** open the [theme studio](https://stefankasamakov.github.io/radialdeck-releases/themes.html).
+Pick a theme to start from, move the colours around with a live ring next to you, then either download the
+file or press "Share it on GitHub", which opens this repository with your theme already filled in and ready
+to commit as a pull request. Nothing to install and no account beyond GitHub.
+
+**By hand:** copy `themes/glass.json`, change `id` and `name`, edit the colours. Every colour is `#RRGGBB` or `#AARRGGBB` (alpha first). Both a `dark` and a `light` block are required; RadialDeck picks one to match Windows.
 
 | Field | What it paints |
 |---|---|
